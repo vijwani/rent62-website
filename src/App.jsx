@@ -531,7 +531,6 @@ export default function Rent62Landing() {
           id="listings"
           eyebrow="LISTINGS"
           title="Browse available rentals"
-          desc="Upload photos easily by placing them in public/listings/<ID>/ and referencing them in the photos array."
           className="pt-8"
         >
           <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
